@@ -1,6 +1,6 @@
 {
   "name": "keybase-stathat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A stathat wrapper that uses request",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/keybase/stathat",
   "dependencies": {
-    "iced-runtime": "^1.0.1",
-    "request": "^2.39.0"
+    "iced-runtime": "^1.0.2",
+    "request": "^2.51.0"
   }
 }
