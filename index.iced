@@ -23,7 +23,7 @@ exports.StatHat = class StatHat
 
   _postRequest : (pathname, form , cb) ->
     opts = {
-      url:  "#{@protocol}//api.stathat.com/#{pathname}"
+      url:  "#{@protocol}//api.stathat.com#{pathname}"
       form,
       @timeout,
       method : "POST",
