@@ -1,6 +1,6 @@
 {
   "name": "keybase-stathat",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A stathat wrapper that uses request",
   "main": "index.js",
   "scripts": {
